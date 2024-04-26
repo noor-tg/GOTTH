@@ -2,3 +2,6 @@ bin
 tmp
 *.db
 tailwindcss
+*_templ.go
+style.css
+style.min.css
